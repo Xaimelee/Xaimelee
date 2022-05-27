@@ -2,9 +2,9 @@
 
 I'm a Game Modder, Indie Game Developer and currently a student for Advanced Software Development. Currently I am situated in New Zealand but I do frequently travel to and temporarily live in Australia.
 
-I enjoy and definitely prefer using C# and GDScript for anything Game Developing, primarily using Unity or the Godot Engine. When it comes to modding, which has been primarily for **Europa Universalis IV**, it uses a inhouse scripting language with some elements of LUA.
+I enjoy and definitely prefer using C# and GDScript for anything game development, primarily using Unity or the Godot Engine. When it comes to modding, which has been primarily for **Europa Universalis IV**, it uses a inhouse scripting language with some elements of LUA.
 
-Speaking of **Europa Universalis IV**, I created a tool for modders to help speed up the creation of mission trees for the game which can be viewed [HERE](https://steamcommunity.com/sharedfiles/filedetails/?id=2408076990).
+Speaking of **Europa Universalis IV**, I created a tool for modders to help speed up the creation of mission trees for the game which can be viewed [HERE](https://steamcommunity.com/sharedfiles/filedetails/?id=2408076990). It is a desktop application which outputs txt files with code snippets based off what the user designs.
 
 My time as a modder has been fairly active, most noteably participating and for a time running a Multiplayer community and modification for a server consisting of hundreds of players, that being **Hashinshin Multiplayer** or **HashMP** for short.
 
