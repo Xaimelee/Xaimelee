@@ -17,7 +17,7 @@ I am actively developing a game done in partnership with a fantastic artist who 
 
 More recently with becoming a student, I have for the first time delved into web application development, AI tools (chatbots, image recognition), APIs, databases and other server related tools.
 
-**Languages, Applications or Tools Learned:**
+**Languages, Applications or Tools Learned as a Student:**
 - Javascript (Typescript, JSX)
 - HTML
 - CSS (scss, sass)
