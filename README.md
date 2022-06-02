@@ -15,7 +15,7 @@ My time as a modder has been fairly active, most noteably participating and for 
 
 I am actively developing a game done in partnership with a fantastic artist who is also a very experienced Game Developer with released commercial titles. This is still a private project but is code-named 'Loom' with an expected commercial release for later this year for PC.
 
-More recently with becoming a student, I have for the first time delved into web application development, AI tools (chatbots, image recognition), APIs, databases and other server related tools. Coding Languages learned for this so far have been Javascript, HTML and CSS (scss, sass), along with learning the React framework which uses JSX.
+More recently with becoming a student, I have for the first time delved into web application development, AI tools (chatbots, image recognition), APIs, databases and other server related tools.
 
 **Languages, Applications or Tools Learned:**
 - Javascript (Typescript, JSX)
