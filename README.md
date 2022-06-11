@@ -22,6 +22,7 @@ More recently with becoming a student, I have for the first time delved into web
 - HTML
 - CSS (scss, sass)
 - React
+- React Redux
 - Docker
 - Firebase
 - IBM Watson
