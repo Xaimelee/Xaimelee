@@ -29,4 +29,8 @@ More recently with becoming a student, I have for the first time delved into web
 
 Repositories started with 'mr-hq' are related to my time as a student and demonstrate usage of the above.
 
+**Mission Ready Projects:**
+- [Turners Cars, collaborated with UX designers](https://github.com/Xaimelee/mrhq-website)
+- [Pets.co, collaborated with UX designers](https://github.com/Xaimelee/mrhq-website-m6)
+
 [xaimelee.github.io](https://github.com/Xaimelee/xaimelee.github.io) currently displays the implementation of a Car Recognition AI.
