@@ -15,6 +15,8 @@ My time as a modder has been fairly active, most noteably participating and for 
 
 I am actively developing a game done in partnership with a fantastic artist who is also a very experienced Game Developer with released commercial titles. This is still a private project but is code-named 'Loom' with an expected commercial release for later this year for PC.
 
+Before our current game we submitted an entry to a game jame which had a theme for games to be in black and white, this can be viewed [HERE](https://xaimelee.itch.io/just-a-regular-game-of-cards).
+
 More recently with becoming a student, I have for the first time delved into web application development, AI tools (chatbots, image recognition), APIs, databases and other server related tools.
 
 **Languages, Applications or Tools Learned as a Student:**
