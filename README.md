@@ -20,12 +20,16 @@ More recently with becoming a student, I have for the first time delved into web
 **Languages, Applications or Tools Learned as a Student:**
 - Javascript (Typescript, JSX)
 - HTML
-- CSS (scss, sass)
+- CSS (SCSS, SASS)
 - React
 - React Redux
 - Docker
-- Firebase
+- Firebase Hosting
 - IBM Watson
+- Snyk 
+- Custom Vision 
+- MongoDB 
+- Express.js 
 
 Repositories started with 'mr-hq' are related to my time as a student and demonstrate usage of the above.
 
